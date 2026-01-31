@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which language is most used in Artificial Intelligence?",
+    "options": ["Java", "Python", "C++", "PHP"],
+    "answer": "Python"
+  },
+  {
+    "question": "Who developed the Python programming language?",
+    "options": ["Dennis Ritchie", "James Gosling", "Guido van Rossum", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Power Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which data structure follows the FIFO principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": "Queue"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "def", "fun", "define"],
+    "answer": "def"
+  },
+  {
+    "question": "What is the correct file extension for Python files?",
+    "options": [".pt", ".py", ".python", ".pyt"],
+    "answer": ".py"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": "#"
+  },
+  {
+    "question": "Which loop is best when the number of iterations is known?",
+    "options": ["while", "for", "do-while", "infinite"],
+    "answer": "for"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Real Access Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which company originally developed Git?",
+    "options": ["Microsoft", "Google", "Linux Foundation", "None of these"],
+    "answer": "None of these"
+  },
+  {
+    "question": "Which of the following is NOT a programming language?",
+    "options": ["Python", "HTML", "Java", "C++"],
+    "answer": "HTML"
+  },
+  {
+    "question": "What keyword is used to create a class in Python?",
+    "options": ["class", "define", "struct", "object"],
+    "answer": "class"
+  },
+  {
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["^", "**", "//", "%"],
+    "answer": "**"
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["List", "Dictionary", "Set", "Tuple"],
+    "answer": "Tuple"
+  }
+]
