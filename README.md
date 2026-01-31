@@ -6,10 +6,9 @@ The application asks random multiple-choice questions and calculates the final s
 ---
 
 ## 🚀 Features
-- Command-line based quiz (no frontend)
+- Command-line based quiz 
 - Random selection of 5 questions per attempt
-- Unlimited questions stored using JSON
-- Per-question time limit
+- Questions stored using JSON
 - Instant feedback (right/wrong)
 - Final score and performance evaluation
 - Modular and clean code structure
@@ -21,7 +20,7 @@ python_quiz_app/
 │
 ├── main.py # Entry point of the application
 ├── quiz_engine.py # Core quiz logic
-├── questions.json # Question database (unlimited questions)
+├── questions.json # Question database 
 ├── README.md # Project documentation
 ├── .gitignore # Ignored files
 
@@ -43,7 +42,6 @@ Rules are displayed
 
 5 random questions are selected from JSON
 
-Each question has a time limit
 
 Score is calculated and displayed at the end
 
@@ -63,7 +61,6 @@ File handling using JSON
 
 Randomization logic
 
-Basic time-based logic
 
 Git & GitHub workflow
 
@@ -75,4 +72,11 @@ Score leaderboard
 GUI or web-based interface
 
 Database integration
+
+👤 Author
+
+Mohd Alsaf
+
+First Year B.Tech (CSE)
+Mini Project – Python Programming
 
